@@ -1,0 +1,42 @@
+.items{
+    margin: 23vh auto 0;
+    width: 70%;
+}
+.logo{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 3vh;
+    margin-bottom: -4vh;
+}
+.content{
+    margin-top: 4vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.title{
+    margin-top: -25px;
+}
+
+.image{
+    border-radius: 100px;
+    height: 15vh;
+    width: 15vh;
+}
+
+.carta {
+box-sizing: border-box;
+border: 1px solid #FFFFFF;
+box-shadow: 7px 2px 11px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin: 2vh 2vh;
+}
+.title{
+    color: rgba(0, 0, 0, 0.526);
+    font-weight: 500;
+}
